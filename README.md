@@ -1,5 +1,7 @@
 WELCOME to my repository. Learning with easy and fun for beginner.
 
+This repository contains a simple Pacman-style game project built with Python and Pygame. It is intended as a beginner-friendly learning project for understanding game logic, input handling, and basic testing.
+
 ## Installation
 
 We recommend using [uv](https://github.com/astral-sh/uv) for managing dependencies.
@@ -53,3 +55,4 @@ Untuk melihat Blackbox Testing secara visual, di mana bot otomatis akan membuka 
 ```bash
 uv run --with pygame python test/test_visual_blackbox.py
 ```
+
