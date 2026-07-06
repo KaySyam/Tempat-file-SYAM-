@@ -1,6 +1,6 @@
-WELCOME to my repository. Learning with easy and fun for beginner.
+WELCOME to my repository. This project is a simple Pacman-style game built with Python and Pygame as a learning exercise for beginners.
 
-This repository contains a simple Pacman-style game project built with Python and Pygame. It is intended as a beginner-friendly learning project for understanding game logic, input handling, and basic testing.
+It is meant to help understand basic game development concepts such as movement, collision, and simple testing with Python's unittest framework.
 
 ## Installation
 
